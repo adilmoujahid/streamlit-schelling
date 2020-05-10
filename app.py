@@ -72,7 +72,7 @@ st.title("Schelling's Model of Segregation")
 population_size = st.sidebar.slider("Population Size", 500, 10000, 2500)
 empty_ratio = st.sidebar.slider("Empty Houses Ratio", 0., 1., .2)
 similarity_threshold = st.sidebar.slider("Similarity Threshold", 0., 1., .4)
-n_iterations = st.sidebar.number_input("Number of Iterations", 50)
+n_iterations = st.sidebar.number_input("Number of Iterations", 10)
 
 schelling = Schelling(population_size, empty_ratio, similarity_threshold, 3)
 mean_similarity_ratio = []
