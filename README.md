@@ -1,6 +1,6 @@
 # Implementation of schelling segregation model using Python and Streamlit
 
-* Source Code for my blog post: [A Practical Introduction to Blockchain with Python](http://adilmoujahid.com/posts/2020/05/streamlit-python-schelling/)
+* Source Code for my blog post: [An Implementation of Schelling Segregation Model using Python and Streamlit](http://adilmoujahid.com/posts/2020/05/streamlit-python-schelling/)
 
 <div style="display:block;margin:auto;height:80%;width:80%">
   <img src="schelling-simulation.gif">
